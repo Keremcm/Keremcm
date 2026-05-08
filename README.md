@@ -1,10 +1,10 @@
-# 👋 Kerem Çırak | AI & Cryptography Engineer
+#  Keremcm | AI & Cryptography Engineer
 
 > **Building secure, intelligent systems** | Full Independent Developer | AI/Crypto Enthusiast
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a full-stack independent developer with a deep passion for **Artificial Intelligence** and **Cryptography**. I combine cutting-edge AI technologies with cryptographic security to build innovative solutions that prioritize both intelligence and privacy.
 
@@ -12,7 +12,7 @@ Currently focusing on advancing decentralized communication through **KeyCord** 
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **T3AI Foundation** | Research & Development
 - **Research & Model Testing**: Evaluated and optimized AI models for production environments
@@ -21,15 +21,15 @@ Currently focusing on advancing decentralized communication through **KeyCord** 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### **KeyCord** ⭐ *Currently Active*
+### **KeyCord** *Currently Active*
 *Signal meets Tor — End-to-end cryptographically encrypted communication*
-- 🔐 Military-grade E2E encryption (Signal protocol)
-- 🌐 Tor integration for anonymity
-- 🛡️ Mozilla Security Score: **120/100** (exceeds standards)
-- 🌍 Live at [keycord.org](https://keycord.org)
-- 📊 **Tech Stack**: Python, HTML, JavaScript, CSS, Kotlin
+-  Military-grade E2E encryption (Signal protocol)
+-  Tor integration for anonymity
+-  Mozilla Security Score: **120/100** (exceeds standards)
+-  Live at [keycord.org](https://keycord.org)
+-  **Tech Stack**: Python, HTML, JavaScript, CSS, Kotlin
 
 ### **AIKON** 
 *Autonomous Intelligence Kernel of Neural Systems*
@@ -56,28 +56,28 @@ Currently focusing on advancing decentralized communication through **KeyCord** 
 ## 🛠️ Technology Stack
 
 **Languages & Frameworks:**
-- 🐍 Python (Primary) - NumPy, TensorFlow, PyTorch, scikit-learn
-- 💻 JavaScript/HTML/CSS
-- 📱 Kotlin
-- 🔧 Shell/Bash
+-  Python (Primary) - NumPy, TensorFlow, PyTorch, scikit-learn
+-  JavaScript/HTML/CSS
+-  Kotlin
+-  Shell/Bash
 
 **Specializations:**
-- 🤖 Machine Learning & Deep Learning
-- 🔐 Cryptography & Security
-- 📊 Data Processing & Analysis
-- 🎯 Model Research & Optimization
+-  Machine Learning & Deep Learning
+-  Cryptography & Security
+-  Data Processing & Analysis
+-  Model Research & Optimization
 
 ---
 
-## 📈 What I'm Currently Doing
+##  What I'm Currently Doing
 
-✨ **Actively developing KeyCord** — scaling a privacy-first messaging platform  
-🔬 **AI Research** — exploring novel architectures for autonomous systems  
-🛡️ **Security Innovation** — advancing cryptographic standards for decentralized apps  
+ **Actively developing KeyCord** — scaling a privacy-first messaging platform  
+ **AI Research** — exploring novel architectures for autonomous systems  
+ **Security Innovation** — advancing cryptographic standards for decentralized apps  
 
 ---
 
-## 🌱 Interests & Learning
+##  Interests & Learning
 
 - Advanced Cryptographic Protocols
 - Federated Learning & Privacy-Preserving ML
@@ -87,7 +87,7 @@ Currently focusing on advancing decentralized communication through **KeyCord** 
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
 ```
 Python         ████████████████████░ 91.5%
@@ -98,15 +98,16 @@ Other          █░░░░░░░░░░░░░░░░░░░  2.4
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
-- 📸 **Instagram**: [Add your Instagram URL here]
-- 🌍 **Projects**: [keycord.org](https://keycord.org)
-- 💼 **Focus**: Building the future of secure communication
+-  **Mail**: kerem@keycord.org
+-  **Instagram**: [@_keremcm_](https://www.instagram.com/_keremcm_/)
+-  **Projects**: [keycord.org](https://keycord.org)
+-  **Focus**: Building the future of secure communication
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 > *"Security without usability is theater. Intelligence without ethics is dangerous. I build systems that are both secure and intelligent, with privacy at their core."*
 
