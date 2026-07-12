@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Keremcem&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Cryptography%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Keremcem&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20Cryptography%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+secure%2C+intelligent+systems;Independent+Developer+%7C+AI+%2F+Crypto;Creator+of+KeyCord+%E2%80%94+E2E+Encrypted+Messaging)
 
