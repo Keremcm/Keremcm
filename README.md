@@ -94,10 +94,17 @@ Autonomous Intelligence Kernel of Neural Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keremcem&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keremcem&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=keremcem&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremcem&layout=compact&theme=radical&hide_border=true" width="45%"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/keremcem/keremcem/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/keremcem/keremcem/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://github.com/keremcem/keremcem/blob/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
 
 </div>
 
