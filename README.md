@@ -37,26 +37,26 @@ Signal meets Tor — E2E encrypted messaging
 </td>
 <td width="50%" valign="top">
 
-**AIKON**
-Autonomous Intelligence Kernel of Neural Systems
-- Neural architecture for autonomous decision-making
-- Pure Python research project
+**blipsearch**
+On-device video search engine, real-time indexing
+- Real-time video indexing & retrieval
+- `Python 88% · Shell 12%`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**blipsearch**
-On-device video search engine, real-time indexing
-- `Python 88% · Shell 12%`
+**torbox**
+Tor-based routing & anonymity toolkit
+- Hidden service / bridge tooling
 
 </td>
 <td width="50%" valign="top">
 
-**AI Game Series**
-Self-learning chess engine · RL Snake agent
-- `AI-Chess-Game · AI-Snake-Game`
+**AIKON**
+Autonomous Intelligence Kernel of Neural Systems
+- Neural architecture for autonomous decision-making
 
 </td>
 </tr>
