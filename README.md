@@ -94,9 +94,9 @@ Autonomous Intelligence Kernel of Neural Systems
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=keremcem&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremcem&layout=compact&theme=radical&hide_border=true" width="45%"/>
+![Followers](https://img.shields.io/github/followers/keremcem?label=Followers&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/keremcem&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
+![Top Language](https://img.shields.io/github/languages/top/keremcem/keycord?label=Top%20Language&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
 
 <br><br>
 
