@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Keremcem&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20Cryptography%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Keremcm&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20Cryptography%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+secure%2C+intelligent+systems;Independent+Developer+%7C+AI+%2F+Crypto;Creator+of+KeyCord+%E2%80%94+E2E+Encrypted+Messaging)
 
@@ -94,16 +94,16 @@ Autonomous Intelligence Kernel of Neural Systems
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/keremcem?label=Followers&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/keremcem&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
-![Top Language](https://img.shields.io/github/languages/top/keremcem/keycord?label=Top%20Language&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
+![Followers](https://img.shields.io/github/followers/Keremcm?label=Followers&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Keremcm&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
+![Top Language](https://img.shields.io/github/languages/top/Keremcm/keycord?label=Top%20Language&style=for-the-badge&color=2EE6A6&labelColor=1a1a1a)
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/keremcem/keremcem/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/keremcem/keremcem/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://github.com/keremcem/keremcem/blob/output/github-contribution-grid-snake.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Keremcm/Keremcm/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Keremcm/Keremcm/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://github.com/Keremcm/Keremcm/blob/output/github-contribution-grid-snake.svg" width="90%"/>
 </picture>
 
 </div>
@@ -112,7 +112,7 @@ Autonomous Intelligence Kernel of Neural Systems
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=keremcem&color=2EE6A6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Keremcm&color=2EE6A6&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
