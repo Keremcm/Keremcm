@@ -32,7 +32,7 @@ Independent developer combining **AI** and **cryptography** to build systems tha
 Signal meets Tor — E2E encrypted messaging
 - 🔐 Signal-protocol grade encryption + Tor anonymity
 - 🛡️ Mozilla Observatory: **120/100**
-- `Python · JS · Kotlin`
+- `Python · JS`
 
 </td>
 <td width="50%" valign="top">
@@ -72,7 +72,6 @@ Autonomous Intelligence Kernel of Neural Systems
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
